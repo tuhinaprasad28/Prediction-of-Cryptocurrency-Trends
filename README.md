@@ -18,6 +18,7 @@ price will rise or decline in response to the
 world news.
 
 Implementation:
+
 Data Extraction: We have imported the 
 Bitcoin and Ethereum data from 
 OpenBlender into Panda Data frames.
